@@ -1,5 +1,8 @@
 # F9DASM - 6800/6801/6802/6803/6808/6809 / 6301/6303/6309 Disassembler
 
+This version is forked from https://github.com/Arakula/f9dasm which seems to be the most up to date.
+I'm working on a bug in the equates which seems to pick the wrong equate name.
+
 Copyright (c) 2000 Arto Salmi  
 &#13;&#10;Parts Copyright (c) 2001-2022 Hermann Seib  
 &#13;&#10;Parts Copyright (c) 2013 Colin Bourassa  
